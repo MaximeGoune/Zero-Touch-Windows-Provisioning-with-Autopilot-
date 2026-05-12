@@ -10,17 +10,20 @@ This project demonstrates a complete Windows Autopilot provisioning workflow usi
 ## 📌 1. Capture the Hardware Hash
 
 ### Run PowerShell as Administrator  
-*(Insert screenshot here)*  
-`![Screenshot](images/01_powershell_admin.png)`
+<img src="https://imgur.com/jaM2tUM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ### Install Autopilot Script  
-*(Insert screenshot here)*  
-`![Screenshot](images/02_install_script.png)`
+<img src="https://imgur.com/jaM2tUM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ### Set Execution Policy  
-*(Insert screenshot here)*  
-`![Screenshot](images/03_execution_policy.png)`
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ### Export Hardware Hash  
 ```powershell
 Get-WindowsAutoPilotInfo.ps1 -OutFile E:\autohash.csv
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
