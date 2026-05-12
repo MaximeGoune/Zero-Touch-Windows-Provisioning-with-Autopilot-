@@ -18,7 +18,7 @@ This project demonstrates a complete Windows Autopilot provisioning workflow usi
 <br />
 
 ### Set Execution Policy  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://imgur.com/jaM2tUM]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 ### Export Hardware Hash  
