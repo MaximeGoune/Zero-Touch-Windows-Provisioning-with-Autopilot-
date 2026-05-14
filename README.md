@@ -55,9 +55,12 @@ Dynamic rule:
 5 Configure Enrollment Status Page (ESP)
 
 6-Trigger Autopilot via OOBE
-<img src="https://https://imgur.com/lsp3mVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/j0m8nxT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
 7-— Verify Enrollment
+
 <img src="https://imgur.com/uLDSsu2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
