@@ -50,6 +50,11 @@ This project demonstrates a complete Windows Autopilot provisioning workflow usi
 <img src="https://imgur.com/MGTZd5H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Dynamic rule:
+(device.devicePhysicalIds -any (_ -contains "[ZTDId]"))
 
+5 Configure Enrollment Status Page (ESP)
 
+6-Trigger Autopilot via OOBE
+
+7-— Verify Enrollment
 
